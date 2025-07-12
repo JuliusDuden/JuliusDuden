@@ -5,7 +5,6 @@
 
 <h1 align="center">Hi 👋 I'm Julius Duden</h1>
 <p align="center"><b>🚀 IT Developer · Full-Stack Developer · Automation Visionary</b></p>
----
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python,docker,react,nodejs,linux,git,github,vscode,bash,html,css,javascript,mysql,powershell,azure" />

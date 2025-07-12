@@ -5,7 +5,6 @@
 
 <h1 align="center">Hi 👋 I'm Julius Duden</h1>
 <p align="center"><b>🚀 IT Developer · Full-Stack Developer · Automation Visionary</b></p>
-<i>Building smart systems at the intersection of Tech, Design & Automation</i>
 ---
 
 <p align="center">

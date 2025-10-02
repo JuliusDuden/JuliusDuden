@@ -56,9 +56,9 @@ With roots in IT infrastructure and a mindset wired for innovation, I build solu
 
 **Currently working on:**
 
-- 🎓 Preparing for **Industrial Engineering – Electrical Engineering** at TU Braunschweig  
+- 🎓 **Industrial Engineering – Electrical Engineering** at TU Braunschweig  
 - 🧠 Building a **Second Brain AI System (SAM)**  
-- 🛠️ Restoring and re                wiring a **Honda Del Sol** with custom electronics
+- 🛠️ Restoring and rewiring a **Honda Del Sol** with custom electronics
 
 ---
 

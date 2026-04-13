@@ -1,83 +1,75 @@
-<!-- Hero Banner -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/JuliusDuden/JuliusDuden/main/Banner.png" alt="Welcome Banner" width="500" />
+  <img src="https://raw.githubusercontent.com/JuliusDuden/JuliusDuden/main/back.png" alt="Julius Duden Banner" width="250" />
 </p>
 
-<h1 align="center">Hi 👋 I'm Julius Duden</h1>
-<p align="center"><b>🚀 IT Developer · Full-Stack Developer · Automation Visionary</b></p>
-
+<h1 align="center">Julius Duden</h1>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,docker,react,nodejs,linux,git,github,vscode,bash,html,css,javascript,mysql,powershell,azure" />
+  <b>Industrial Engineering Student (Electrical) | Full-Stack Developer | Systems Architect</b>
 </p>
 
----
-
-## 🧠 About Me
-
-> **"Engineering the bridge between human-centric software and intelligent infrastructure."**
-
-Hi, I'm Julius – a full-stack developer and systems architect in the making.  
-With roots in IT infrastructure and a mindset wired for innovation, I build solutions that **automate**, **connect**, and **scale** – across cloud, code, and hardware.
-
-## 💼 Roles
-
-- 🛠️ IT Admin @ TMD PV – Infrastruktur, SharePoint, Netzwerke  
-- 🔧 SAP Developer @ Cedima – Schnittstellenentwicklung (ABAP, API)  
-- 🧪 Full-Stack Builder – React · Docker · Node.js
-
----
-
-## 🔧 Skills
-
-**Infrastructure:**  
-🔹 VPN · PRTG · WireGuard · Firewalls · Linux  
-**Development:**  
-🔹 Python · JavaScript · SQL · GitHub · ABAP  
-**UX & Productivity:**  
-🔹 Figma · SharePoint · UI-first Mindset · Power Automate
-
----
-
-## 🧪 Projects Spotlight
-
-| 🚀 Project                  | 🔍 Description                               | 💡 Tech                          |
-|---------------------------|----------------------------------------------|----------------------------------|
-| 🏷️ Cedima Label Generator | Automated label workflow for production      | Python · MySQL · UI/UX           |
-| 🌐 TMD PV Webplattform     | Responsive site + yield calculator           | React · SEO · Docker             |
-| 🤖 SAM: AI Assistant       | Custom-built voice assistant w/ OpenAI       | Python · OpenAI · Speech         |
-| 🔐 WireGuard Infra         | Remote secure infra for distributed teams    | Linux · WireGuard · Firewalls    |
-| 📈 Power Automate Tools    | Smart doc analysis via keywords              | Power Platform · SharePoint      |
-
----
-
-## 🔭 My Vision
-
-> _"Hybrid systems that blend cloud, code, and electronics into one seamless interface."_
-
-**Currently working on:**
-
-- 🎓 **Industrial Engineering – Electrical Engineering** at TU Braunschweig  
-- 🧠 Building a **Second Brain AI System (SAM)**  
-- 🛠️ Restoring and rewiring a **Honda Del Sol** with custom electronics
-
----
-
-## 🔗 Let's Connect
-
 <p align="center">
-
-  [![Email](https://img.shields.io/badge/Email-jf@duden.cc-black?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jf@duden.cc)
-
-  &nbsp;&nbsp;&nbsp;
-
-  [![LinkedIn](https://img.shields.io/badge/LinkedIn-Julius%20Duden-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/julius-duden-51956829a/)
-
-  &nbsp;&nbsp;&nbsp;
-
-  [![Website](https://img.shields.io/badge/Website-julius.schöder.de-000?style=for-the-badge&logo=vercel&logoColor=white)](https://julius.schöder.de)
-
+  <img src="https://img.shields.io/badge/Focus-Automation_%26_Systems_Engineering-6E57FF?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Education-TU_Braunschweig-00A651?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Location-Braunschweig,_Germany-orange?style=for-the-badge" />
 </p>
 
 ---
 
-> 🛸 _Currently engineering the future – one line at a time._
+### 🧠 The Mission: Engineering the Future of Infrastructure
+
+I operate at the intersection of high-level software architecture and physical electrical engineering. Currently pursuing my **B.Sc. in Industrial Engineering** at **TU Braunschweig** with a focus on **Microelectronics and Semiconductors**, I apply engineering rigor to solve complex digital and hardware challenges.
+
+My work is driven by a "Systems Thinking" approach: whether I'm developing **SAP interfaces (ABAP) and Microservices** at Cedima, automating workflows for **TMD PV**, or rewiring the entire electronics of a **1990s Honda Del Sol**, I build for scalability, efficiency, and long-term stability.
+
+---
+
+### 🛠️ Technical Ecosystem
+
+| Layer | Core Technologies |
+| :--- | :--- |
+| **Development** | Python, JavaScript (React, Node.js), ABAP, SQL, HTML/CSS |
+| **Infrastructure** | Docker, Linux (Debian/Ubuntu), Azure, Git, PowerShell |
+| **Systems** | SAP ERP, SharePoint Development, Power Automate, PRTG Monitoring |
+| **Engineering** | Microelectronics, Sensorics, Embedded Systems (IoT), WireGuard VPN |
+
+---
+
+### 🧪 Professional Impact & Projects
+
+I don't just write code; I build tools that solve real business problems.
+
+* **🤖 S.A.M. (AI Assistant):** Developed a custom voice assistant using Python and OpenAI API to automate routine digital tasks and personal knowledge management.
+* **🏷️ Production Automation:** Built an end-to-end Label Generator for **Cedima** using Python and MySQL, significantly reducing manual errors in the production line.
+* **📊 Process Optimization:** Created a keyword-based document counter via **Power Automate**, saving employees up to **2 hours per week** in project controlling.
+* **🌐 Web Platforms:** Developed and deployed responsive, SEO-optimized web architectures for companies like **EP4 Offshore** and **TMD PV**.
+* **🏎️ Automotive Engineering:** Currently performing a complete electronic restoration of a Honda Del Sol, focusing on custom wiring harnesses and sensor integration.
+
+---
+
+### 🎓 Background & Expertise
+
+* **Academic Excellence:** Specializing in **Microelectronics** at TU Braunschweig. Previously completed **Junior Studies in Computer Science** at Leuphana University and the University of Hamburg while still in school.
+* **Enterprise Integration:** Extensive experience in **DevOps and SAP interface development**, bridging the gap between legacy corporate systems and modern web technology.
+* **Creative Logic:** Combining analytical thinking with a background in creative problem solving to find unconventional solutions to technical hurdles.
+
+---
+
+### 🔗 Let's Connect
+
+<p align="center">
+  <a href="mailto:jf@duden.cc">
+    <img src="https://img.shields.io/badge/Email-jf@duden.cc-black?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://www.linkedin.com/in/julius-duden-51956829a/">
+    <img src="https://img.shields.io/badge/LinkedIn-Julius_Duden-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://julius.schöder.de">
+    <img src="https://img.shields.io/badge/Website-julius.schöder.de-000?style=for-the-badge&logo=vercel&logoColor=white" />
+  </a>
+</p>
+
+<p align="center">
+  <sub>🛸 <i>Engineering the loop between atoms and bits.</i></sub>
+</p>
